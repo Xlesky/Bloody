@@ -3,7 +3,7 @@
 
 #Table
 
-`getgenv().Bloody = {
+```getgenv().Bloody = {
     ["Bloody"] = {
         Key = "putyourkeyhere",
         Intro = true,
@@ -84,4 +84,4 @@
         p130_140 = 0.1500,
         p140_150 = 0.1555
     },
-}`
+}```
