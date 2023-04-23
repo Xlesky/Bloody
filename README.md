@@ -1,7 +1,7 @@
 # Bloody
 #1 Closet Cheating Experience
 
-#Table
+# Script Table
 
 ```getgenv().Bloody = {
     ["Bloody"] = {
